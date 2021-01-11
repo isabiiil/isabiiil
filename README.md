@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi y'all 👋🏻 I'm Isa!
+
+- 🔭 I’m currently working at JumpButton Studio as a web developer and project manager.
+- 💬 Ask me about [CUNY Hackathon](http://cunyhackathon.tech/) which is my biggest project this winter.
+- 📫 How to reach me: isabelabonitalla@gmail.com and @isabiiil on twitter, facebook, and instagram.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have two cats, Roshi (like DBZ) and Momo (like AtLA)!
+
+[Visit my personal website](http://isabiiil.tech/)
 
 <!--
 **isabiiil/isabiiil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
