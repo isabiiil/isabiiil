@@ -1,7 +1,7 @@
 ## Hi y'all 👋🏻 I'm Isa!
 
 - 🔭 I’m currently working at Oden Technologies as a software engineer intern.
-- 💬 Ask me about my upcoming summer internship at Roblox and my intended transition to product management.
+- 💬 Ask me about my upcoming summer internship at Roblox and my intended transition into product management.
 - 📫 How to reach me: isabelabonitalla@gmail.com and @isabiiil on twitter, facebook, and instagram.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two cats, Roshi (like DBZ) and Momo (like AtLA)!
