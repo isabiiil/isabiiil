@@ -1,6 +1,6 @@
 ## Hi y'all 👋🏽 I'm Isa!
 
-- ✨ I recently started as a Product Manager for Uproar.car!
+- ✨ I'm the lead product manager at GamingAF, an up-and-coming indie game studio!
 - 📜 In the past, I've worked as a PM intern for Roblox, a SWE intern for Oden Technologies, a web dev intern for Caribou Health, and more.
 - 🌱 I'm learning more about product management and entrepreneurship.
 - 🍑 Ask me about my my passion project (and maybe startup? 🤞🏽).
