@@ -1,9 +1,8 @@
 ## Hi y'all 👋🏽 I'm Isa!
 
-- ✨ I'm the lead product manager at GamingAF, an up-and-coming indie game studio!
+- ✨ I'm the COO of Simulottic, an up-and-coming indie game studio!
 - 📜 In the past, I've worked as a PM intern for Roblox, a SWE intern for Oden Technologies, a web dev intern for Caribou Health, and more.
 - 🌱 I'm learning more about product management and entrepreneurship.
-- 🍑 Ask me about my my passion project (and maybe startup? 🤞🏽).
 - 👯 I'm looking for collaborators for my mobile app, so if you know React Native, Firebase, etc please reach out!
 - 📫 How to reach me: isabelabonitalla@gmail.com and @isabiiil on instagram, snapchat, twitter, and facebook.
 - 🏳️‍🌈 Pronouns: she/her
