@@ -1,6 +1,6 @@
 ## Hi y'all 👋🏽 I'm Isa!
 
-- ✨ I'm the COO of Simulottic, an up-and-coming indie game studio!
+- ✨ I'm an incoming SWE intern in Microsft's Cloud & AI team!
 - 📜 In the past, I've worked as a PM intern for Roblox, a SWE intern for Oden Technologies, a web dev intern for Caribou Health, and more.
 - 🌱 I'm learning more about product management and entrepreneurship.
 - 👯 I'm looking for collaborators for my mobile app, so if you know React Native, Firebase, etc please reach out!
